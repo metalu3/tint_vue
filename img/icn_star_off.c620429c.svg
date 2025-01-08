@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="ico_star" transform="translate(-24.108 -760.108)">
+    <rect id="사각형_269" data-name="사각형 269" width="20" height="20" transform="translate(24.108 760.108)" fill="#f0d" opacity="0"/>
+    <path id="star" d="M9.625,1.129l2.642,5.354,5.908.859L13.9,11.509l1.009,5.885L9.625,14.615,4.34,17.394,5.35,11.509,1.074,7.342l5.908-.859Z" transform="translate(24.534 760.847)" fill="none" stroke="#ff983e" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+  </g>
+</svg>

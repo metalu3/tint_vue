@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="toggle" transform="translate(-264 -354)">
+    <rect id="사각형_4463" data-name="사각형 4463" width="24" height="24" rx="4" transform="translate(264 354)" fill="#f5f6fa"/>
+    <g id="apps" transform="translate(268 358.121)">
+      <path id="패스_86814" data-name="패스 86814" d="M0,1.842V6.753H6.753V0H1.842A1.842,1.842,0,0,0,0,1.842Z" transform="translate(0)" fill="#4c5a81"/>
+      <path id="패스_86815" data-name="패스 86815" d="M17.911,0H13V6.753h6.753V1.842A1.842,1.842,0,0,0,17.911,0Z" transform="translate(-3.996 0)" fill="#4c5a81"/>
+      <path id="패스_86816" data-name="패스 86816" d="M0,17.911a1.842,1.842,0,0,0,1.842,1.842H6.753V13H0Z" transform="translate(0 -3.996)" fill="#4c5a81"/>
+      <path id="패스_86817" data-name="패스 86817" d="M13,19.753h4.911a1.842,1.842,0,0,0,1.842-1.842V13H13Z" transform="translate(-3.996 -3.996)" fill="#4c5a81"/>
+    </g>
+  </g>
+</svg>

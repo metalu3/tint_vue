@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+  <g id="icon_logo" transform="translate(-2 13) rotate(-90)">
+    <rect id="사각형_1" data-name="사각형 1" width="12" height="12" transform="translate(1 2)" fill="red" opacity="0"/>
+    <path id="selet" d="M-128.083-2272.5a.917.917,0,0,1-.916-.917v-3.666a.916.916,0,0,1,.916-.916.916.916,0,0,1,.916.916v2.75h2.75a.916.916,0,0,1,.916.916.916.916,0,0,1-.916.917Z" transform="translate(1705.118 1526.96) rotate(-45)" fill="#4c5a81"/>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="68" height="68" viewBox="0 0 68 68">
+  <defs>
+    <filter id="타원_72" x="0" y="0" width="68" height="68" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="top_btn" transform="translate(4 4)">
+    <g transform="matrix(1, 0, 0, 1, -4, -4)" filter="url(#타원_72)">
+      <g id="타원_72-2" data-name="타원 72" transform="translate(4 4)" fill="#fff" stroke="#4c5a81" stroke-width="1" opacity="0.6">
+        <circle cx="28" cy="28" r="28" stroke="none"/>
+        <circle cx="28" cy="28" r="27.5" fill="none"/>
+      </g>
+    </g>
+    <path id="합치기_4" data-name="합치기 4" d="M-704.6-650.6v-25.512l-7.441,8.216a.854.854,0,0,1-1.292,0,1.085,1.085,0,0,1,0-1.427l8.887-9.813a1,1,0,0,1,.34-.329.847.847,0,0,1,.488-.136h.034a.848.848,0,0,1,.5.142,1,1,0,0,1,.329.32l8.89,9.816a1.085,1.085,0,0,1,0,1.427.873.873,0,0,1-.646.3.872.872,0,0,1-.646-.3l-7.441-8.216V-650.6a1,1,0,0,1-1,1A1,1,0,0,1-704.6-650.6Z" transform="translate(731.601 692.601)" fill="#4c5a81"/>
+  </g>
+</svg>

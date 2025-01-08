@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g id="잠금" transform="translate(0 -0.02)">
+    <rect id="Rectangle_4488" data-name="Rectangle 4488" width="16" height="16" transform="translate(0 0.02)" fill="#f0d" opacity="0"/>
+    <g id="Group_252" data-name="Group 252" transform="translate(2.796 1.615)">
+      <path id="Path_86808" data-name="Path 86808" d="M8.282,4.3V3.064a3.064,3.064,0,1,0-6.128,0V4.3H0v8.506H10.409V4.3ZM2.854,3.064a2.364,2.364,0,0,1,4.729,0V4.3H2.854Zm6.855,9.045H.7V5h9.01Z" transform="translate(0 0)" fill="#999"/>
+      <path id="Path_86809" data-name="Path 86809" d="M146.283,248.982v1.077h.7v-1.077a1.133,1.133,0,1,0-.7,0m.35-1.511a.434.434,0,1,1-.434.434.434.434,0,0,1,.434-.434" transform="translate(-141.429 -239.866)" fill="#999"/>
+    </g>
+  </g>
+</svg>
